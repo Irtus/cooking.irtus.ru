@@ -1,0 +1,11 @@
+{
+    "name": "mirt/cooking.irtus.ru",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Irt Alshevus",
+            "email": "irtalshevus@gmail.com"
+        }
+    ],
+    "require": {}
+}
